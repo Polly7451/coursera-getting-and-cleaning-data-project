@@ -1,25 +1,25 @@
 #  Code Book for TidyWearableTech.txt Data
 
-### This Code book details the varaibles in the TidyWearableTech.txt file
+#### This Code book details the varaibles in the TidyWearableTech.txt file
 
 ## Introduction
 
-### The file is compliled data from an experitment into wareable technologies
-### for a more detailed explanation on the data use this link
-### http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-### The data set consits of 180 observations on the following variables
+#### The file is compliled data from an experitment into wareable technologies
+#### for a more detailed explanation on the data use this link
+#### http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+#### The data set consits of 180 observations on the following variables
 
 ## Explanatory Varaible and Identifier
-### * Subject - The ID of Volenteer
-### * Activity - The type of activity they undertook
+#### * Subject - The ID of Volenteer
+#### * Activity - The type of activity they undertook
 
 ## Activity Description 
-### WALKING: Volenteer was walking in the experiment
-### WALKING_UPSTAIRS: Volenteer was walking up a setof stairs in the experiment
-### WALKING_DOWNSTAIRS: Volenteer was walking down a set of stairs in the experiment
-### SITTING: Volenteer was sitting down in the experiment
-### STANDING: Volenteer was standing up in the experiment
-### LAYING: Volenteer was laying down during the experiment
+#### WALKING: Volenteer was walking in the experiment
+#### WALKING_UPSTAIRS: Volenteer was walking up a setof stairs in the experiment
+#### WALKING_DOWNSTAIRS: Volenteer was walking down a set of stairs in the experiment
+#### SITTING: Volenteer was sitting down in the experiment
+#### STANDING: Volenteer was standing up in the experiment
+#### LAYING: Volenteer was laying down during the experiment
 
 
 ## Measurements taken 
