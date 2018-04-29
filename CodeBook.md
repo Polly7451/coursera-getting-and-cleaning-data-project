@@ -1,4 +1,4 @@
-#  ** Code Book for TidyWearableTech.txt Data **
+#  Code Book for TidyWearableTech.txt Data
 
 ### This Code book details the varaibles in the TidyWearableTech.txt file
 
