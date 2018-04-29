@@ -9,6 +9,8 @@
 #### http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 #### The data set consits of 180 observations on the following variables
 
+####  The analysis returns a tidy data set with the average of each variable for each activity and each subject
+
 ## Explanatory Varaible and Identifier
  * Subject - The ID of Volenteer
  * Activity - The type of activity they undertook
@@ -103,4 +105,6 @@
 * 77            fBodyBodyGyroscopeJerkMagnitudeMean
 * 78     fBodyBodyGyroscopeJerkMagnitudeStandardDev
 * 79        fBodyBodyGyroscopeJerkMagnitudeMeanFreq   
+
+
 
